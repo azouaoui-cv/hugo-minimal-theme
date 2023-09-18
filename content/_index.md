@@ -8,9 +8,8 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: |-
-        👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-        {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+      text:
+        Hi, there! I'm **Alex**, a PhD student at Inria, Thoth.
     design:
       background:
         color: black
