@@ -14,9 +14,11 @@ role: 'PhD student'
 #  icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Inria
+  url: "https://www.inria.fr/en"
+- name: Thoth
+  url: "https://thoth.inrialpes.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -49,8 +51,13 @@ social:
     link: https://github.com/azouaoui-cv
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
-  - icon: file-pdf
-    icon_pack: fas
+    #- icon: file-pdf
+    #  icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=k0fFobUAAAAJ
+  - icon: cv
+    icon_pack: ai
     label: View Resume
     link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
