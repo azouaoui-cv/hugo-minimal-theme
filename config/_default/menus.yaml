@@ -5,8 +5,8 @@
 
 main:
   - name: Home
-    url: /
+    url: "#about"
     weight: 10
-  - name: About
-    url: about/
+  - name: Bio
+    url: "#bio"
     weight: 20

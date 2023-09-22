@@ -5,6 +5,7 @@ date: 2022-10-24
 type: landing
 sections:
   - block: about.avatar
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -23,4 +24,11 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
 ---
