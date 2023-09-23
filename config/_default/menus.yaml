@@ -5,8 +5,8 @@
 
 main:
   - name: Home
-    url: "#about"
+    url: /
     weight: 10
-  - name: Bio
-    url: "#bio"
+  - name: Publications
+    url: /publication/
     weight: 20
